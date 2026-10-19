@@ -1,0 +1,4 @@
+IF2130 shell integration fixture
+needle appears on this line
+this line should not match
+another needle result
